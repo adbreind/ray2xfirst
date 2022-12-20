@@ -5,7 +5,13 @@ channels:
 dependencies:
   - python=3.9.0
   - jupyterlab=3.5.1
+  - tqdm=4.64.1
+  - pip=22.3.1
   - pip:
     - ray[air]==2.2.0
     - xgboost-ray==0.1.13
     - tensorboard==2.11.0
+    - ray[rllib]==2.2.0
+    - torch==1.13.1
+    - ipywidgets==8.0.3
+    - pygame==2.1.2

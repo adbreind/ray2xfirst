@@ -1,4 +1,4 @@
-# ray2xfirst
+# Ray 2.x First Steps
 
 ## Local setup instructions
 
